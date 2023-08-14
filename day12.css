@@ -1,0 +1,9 @@
+.contain{
+    margin-top: 2rem;
+}
+.navbar{
+    float:right;
+}
+.navbar+ul{
+    clear:right;
+}
